@@ -66,3 +66,4 @@ C:\Users\user\Desktop\API-Begining-Pratice\API_Practice\API_Practice\obj\Debug\n
 C:\Users\user\Desktop\API-Begining-Pratice\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.pdb
 C:\Users\user\Desktop\API-Begining-Pratice\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.genruntimeconfig.cache
 C:\Users\user\Desktop\API-Begining-Pratice\API_Practice\API_Practice\obj\Debug\net6.0\ref\API_Practice.dll
+C:\Users\user\Desktop\API-Begining-Pratice\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.sourcelink.json
